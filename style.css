@@ -1,0 +1,17 @@
+.content {
+    min-height: 300px;
+    min-width: 300px;
+}
+
+.maindiv {
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+button {
+    background-image: linear-gradient(to right top, #7ef96a, #42f798, #00f3bd, #00ecda, #12e3eb);
+}
+
+.container-fluid {
+    background-image: linear-gradient(to right top, #7ef96a, #42f798, #00f3bd, #00ecda, #12e3eb);
+}
